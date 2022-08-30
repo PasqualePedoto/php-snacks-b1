@@ -50,7 +50,7 @@
        </p>
        <!-- Accesso negato -->
        <p>
-       <?php  if(!$ctrl_ok) { ?>
+        <?php  if(!$ctrl_ok) { ?>
             <p>Accesso negato!</p>
         <?php } ?>
        </p>
